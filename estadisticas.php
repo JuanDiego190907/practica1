@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>pagina estadistica</h1>
+    <hr>
 </body>
 </html>
