@@ -8,5 +8,6 @@
 <body>
     <h1>pagina estadistica</h1>
     <hr>
+    <h2> guardada en el git</h2>
 </body>
 </html>
